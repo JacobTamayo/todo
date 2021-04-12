@@ -1,6 +1,6 @@
-const item = (title, description, dueDate, priority) => {
+const item = (title, description, dueDate) => {
 
-    return {title, description, dueDate, priority};
+    return {title, description, dueDate};
 };
 
 export default item;
