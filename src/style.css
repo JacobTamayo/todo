@@ -1,7 +1,11 @@
 .item-container{
-    border: 1px solid black;
-    margin: 2px;
+    width: 18rem;
+    height: 18rem;
 }
-.red{
-    color:red;
+#blank{
+    background-color:white;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0
 }
