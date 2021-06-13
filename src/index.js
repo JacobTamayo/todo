@@ -32,16 +32,6 @@ else{
 }
 
 
-//bootstrap 
-//buttons, navs & tabs
-
-//Things to Finish
-// Major{
-// }
-// Minor{
-//   Fix spacing for items
-//   Ability to have colors for items
-// }
 
 
 //I'm going to leave this note here just as an introspection after I "finished" this project.
