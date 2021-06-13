@@ -14,5 +14,8 @@ Next, I learned the hard lesson of how important code reusability is. There were
 redo certain chunks of code to allow for more reusability. I feel that something like this isn't something I can learn instantly but it is a good idea to keep in mind as I
 design more projects.
 
+Also, commenting code. After working on this for longer than I probably should have it was hard to add certain features when I had forgotten what it had done. Something
+else that I need to keep in mind for the future.
+
 Overall, I do feel more or less happy with how it turned out as I have never really done something as complicated as this, and I had to use multiple sources to be able to learn how to do everything unfamiliar to me. I feel that since my understanding of Javascript is still very basic that I am probably not utilizing many resources that 
 would have made everything much easier but this is a good start to creating a solid foundation for my knowledge of the language as I continue to learn. 
